@@ -1,0 +1,7 @@
+[2025-09-19 17:37:18.3N] FATAL [CacheService] Disk full - Exception occurred during request processing
+[2025-09-19 17:37:25.3N] ERROR [UserService] Network unreachable - Exception occurred during request processing
+[2025-09-19 17:37:33.3N] FATAL [PaymentService] Disk full - Exception occurred during request processing
+[2025-09-19 17:37:43.3N] ERROR [CacheService] Out of memory - Exception occurred during request processing
+[2025-09-19 17:37:45.3N] FATAL [PaymentService] Authentication failed - Exception occurred during request processing
+[2025-09-19 17:37:49.3N] ERROR [PaymentService] Service unavailable - Exception occurred during request processing
+[2025-09-19 17:37:56.3N] CRITICAL [UserService] Service unavailable - Exception occurred during request processing
